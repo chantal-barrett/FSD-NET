@@ -1,0 +1,4 @@
+Below outlines the steps taken to complete Practice Project 1.9
+
+1. Create a txt file with student data
+2. Write a program that reads in that file and prints it's contents to the console.

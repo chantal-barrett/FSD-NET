@@ -1,0 +1,14 @@
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\bin\Debug\netcoreapp3.1\Students.exe
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\bin\Debug\netcoreapp3.1\Students.deps.json
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\bin\Debug\netcoreapp3.1\Students.runtimeconfig.json
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\bin\Debug\netcoreapp3.1\Students.runtimeconfig.dev.json
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\bin\Debug\netcoreapp3.1\Students.dll
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\bin\Debug\netcoreapp3.1\Students.pdb
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\obj\Debug\netcoreapp3.1\Students.csproj.AssemblyReference.cache
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\obj\Debug\netcoreapp3.1\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\obj\Debug\netcoreapp3.1\Students.AssemblyInfoInputs.cache
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\obj\Debug\netcoreapp3.1\Students.AssemblyInfo.cs
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\obj\Debug\netcoreapp3.1\Students.csproj.CoreCompileInputs.cache
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\obj\Debug\netcoreapp3.1\Students.dll
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\obj\Debug\netcoreapp3.1\Students.pdb
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Students\Students\obj\Debug\netcoreapp3.1\Students.genruntimeconfig.cache
