@@ -1,0 +1,6 @@
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Phase1Section3.12\Phase1Section3.12\bin\Debug\Phase1Section3.12.exe.config
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Phase1Section3.12\Phase1Section3.12\bin\Debug\Phase1Section3.12.exe
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Phase1Section3.12\Phase1Section3.12\bin\Debug\Phase1Section3.12.pdb
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Phase1Section3.12\Phase1Section3.12\obj\Debug\Phase1Section3.12.csproj.CoreCompileInputs.cache
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Phase1Section3.12\Phase1Section3.12\obj\Debug\Phase1Section3.12.exe
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\Phase1Section3.12\Phase1Section3.12\obj\Debug\Phase1Section3.12.pdb
