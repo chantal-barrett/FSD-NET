@@ -1,0 +1,5 @@
+Below outlines the steps taken to complete Practice Project 1.33
+
+1. Create a txt file with student data with each line in the format Name, Class
+2. Write a program that reads in that file and uses bubble sort to sort the students by name.
+3. Print out the sorted array to the console.
