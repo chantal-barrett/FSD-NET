@@ -16,20 +16,42 @@ namespace Phase1DataStructures
 
         public static void sortStudents()
         {
-            string dir = Directory.GetCurrentDirectory();
-            string filename = dir + "\\students.txt";
+            string filename = "C:\\Users\\barrec5\\OneDrive - Dell Technologies\\Documents\\FSD_NET\\FSD-NET\\Practice Projects\\Lesson1\\Phase1DataStructures\\students.txt";
 
             if (File.Exists(filename))
             {
-                string[] students = File.ReadAllLines(filename);
+                string[] studentsSorted = bubbleSort(File.ReadAllLines(filename));
 
-
-                Console.WriteLine(students);
+                foreach(string s in studentsSorted)
+                {
+                    Console.WriteLine(s);
+                }
 
             } else
             {
                 Console.WriteLine("Cannot find file: " + filename);
             }
+        }
+
+        public static string[] bubbleSort(string[] array)
+        {
+            string temp;
+            int smallest;
+            for (int i = 0; i < array.Length - 1; i++)
+            {
+                smallest = i;
+                for (int j = i +1; j < array.Length; j++)
+                {
+                    if (array[j].CompareTo(array[smallest]) < 0)
+                    {
+                        smallest = j;
+                    }
+                }
+                temp = array[smallest];
+                array[smallest] = array[i];
+                array[i] = temp;
+            }
+            return array;
         }
     }
 }
