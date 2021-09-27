@@ -1,0 +1,6 @@
+C:\Users\barrec5\source\repos\Phase1Section5.6\Phase1Section5.6\bin\Debug\Phase1Section5.6.exe.config
+C:\Users\barrec5\source\repos\Phase1Section5.6\Phase1Section5.6\bin\Debug\Phase1Section5.6.exe
+C:\Users\barrec5\source\repos\Phase1Section5.6\Phase1Section5.6\bin\Debug\Phase1Section5.6.pdb
+C:\Users\barrec5\source\repos\Phase1Section5.6\Phase1Section5.6\obj\Debug\Phase1Section5.6.csproj.CoreCompileInputs.cache
+C:\Users\barrec5\source\repos\Phase1Section5.6\Phase1Section5.6\obj\Debug\Phase1Section5.6.exe
+C:\Users\barrec5\source\repos\Phase1Section5.6\Phase1Section5.6\obj\Debug\Phase1Section5.6.pdb
