@@ -1,0 +1,3 @@
+﻿To create this, I first created classes for Stubkect, Student, and Teacher in which each would store the needed information.
+I then created lists for each and populated each list.
+I then looped through the lists to print out the correct information.
