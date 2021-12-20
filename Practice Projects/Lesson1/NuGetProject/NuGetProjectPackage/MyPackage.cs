@@ -7,6 +7,11 @@ namespace NuGetProjectPackageCB
         public string Name;
         public string ClassName;
         public string Section;
+
+        public string getTeacher()
+        {
+            return "Teacher Name: " + Name + " Class: " + ClassName + " Section: " + Section;
+        }
     }
 
     public struct Student
@@ -14,13 +19,22 @@ namespace NuGetProjectPackageCB
         public string Name;
         public string ClassName;
         public string Section;
+
+        public string getStudent()
+        {
+            return "Student Name: " + Name + " Class: " + ClassName + " Section: " + Section;
+        }
     }
 
     public struct Subject
     {
         public string Name;
-        public int SubjectCode;
+        public string SubjectCode;
 
+        public string getSubject()
+        {
+            return Name + " Code: " + SubjectCode;
+        }
     }
 
 }
