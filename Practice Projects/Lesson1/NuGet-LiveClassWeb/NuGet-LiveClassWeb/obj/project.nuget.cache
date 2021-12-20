@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbOhFx89y/S7xA4VBRHz0cvOfhYzHxO7micbYyWREAMx03Zb8e8O0bNGhn0HBusy3lbYcNvTCU/wVB7YndKrFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\barrec5\\OneDrive - Dell Technologies\\Documents\\FSD_NET\\FSD-NET\\Practice Projects\\Lesson1\\NuGet-LiveClassWeb\\NuGet-LiveClassWeb\\NuGet-LiveClassWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barrec5\\.nuget\\packages\\nuget.server\\3.4.1\\nuget.server.3.4.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NuGet.Server 3.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NuGet.Server",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

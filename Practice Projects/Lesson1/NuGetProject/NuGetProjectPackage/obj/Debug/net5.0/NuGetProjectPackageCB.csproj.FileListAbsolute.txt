@@ -1,0 +1,12 @@
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\NuGetProject\NuGetProjectPackage\bin\Debug\net5.0\NuGetProjectPackageCB.deps.json
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\NuGetProject\NuGetProjectPackage\bin\Debug\net5.0\NuGetProjectPackageCB.dll
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\NuGetProject\NuGetProjectPackage\bin\Debug\net5.0\ref\NuGetProjectPackageCB.dll
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\NuGetProject\NuGetProjectPackage\bin\Debug\net5.0\NuGetProjectPackageCB.pdb
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\NuGetProject\NuGetProjectPackage\obj\Debug\net5.0\NuGetProjectPackageCB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\NuGetProject\NuGetProjectPackage\obj\Debug\net5.0\NuGetProjectPackageCB.AssemblyInfoInputs.cache
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\NuGetProject\NuGetProjectPackage\obj\Debug\net5.0\NuGetProjectPackageCB.AssemblyInfo.cs
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\NuGetProject\NuGetProjectPackage\obj\Debug\net5.0\NuGetProjectPackageCB.csproj.CoreCompileInputs.cache
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\NuGetProject\NuGetProjectPackage\obj\Debug\net5.0\NuGetProjectPackageCB.dll
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\NuGetProject\NuGetProjectPackage\obj\Debug\net5.0\ref\NuGetProjectPackageCB.dll
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\NuGetProject\NuGetProjectPackage\obj\Debug\net5.0\NuGetProjectPackageCB.pdb
+C:\Users\barrec5\OneDrive - Dell Technologies\Documents\FSD_NET\FSD-NET\Practice Projects\Lesson1\NuGetProject\NuGetProjectPackage\obj\Debug\net5.0\NuGetProjectPackageCB.csproj.AssemblyReference.cache

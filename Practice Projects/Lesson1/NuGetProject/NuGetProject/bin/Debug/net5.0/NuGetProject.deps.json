@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NuGetProject/1.0.0": {
+        "dependencies": {
+          "NuGetProjectPackageCB": "1.0.0"
+        },
+        "runtime": {
+          "NuGetProject.dll": {}
+        }
+      },
+      "NuGetProjectPackageCB/1.0.0": {
+        "runtime": {
+          "NuGetProjectPackageCB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NuGetProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NuGetProjectPackageCB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
